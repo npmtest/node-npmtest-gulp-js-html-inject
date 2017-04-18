@@ -1,0 +1,57 @@
+<svg height="862" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="862" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ gulp-js-html-inject@0.0.1 </tspan>
+<tspan x="10" y="90">  ├─┬ html-minifier@0.7.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ change-case@2.3.1 </tspan>
+<tspan x="10" y="122">  │ │ ├── camel-case@1.2.2 </tspan>
+<tspan x="10" y="138">  │ │ ├── constant-case@1.1.2 </tspan>
+<tspan x="10" y="154">  │ │ ├── dot-case@1.1.2 </tspan>
+<tspan x="10" y="170">  │ │ ├── is-lower-case@1.1.3 </tspan>
+<tspan x="10" y="186">  │ │ ├── is-upper-case@1.1.2 </tspan>
+<tspan x="10" y="202">  │ │ ├── lower-case@1.1.4 </tspan>
+<tspan x="10" y="218">  │ │ ├── lower-case-first@1.0.2 </tspan>
+<tspan x="10" y="234">  │ │ ├── param-case@1.1.2 </tspan>
+<tspan x="10" y="250">  │ │ ├── pascal-case@1.1.2 </tspan>
+<tspan x="10" y="266">  │ │ ├── path-case@1.1.2 </tspan>
+<tspan x="10" y="282">  │ │ ├── sentence-case@1.1.3 </tspan>
+<tspan x="10" y="298">  │ │ ├── snake-case@1.1.2 </tspan>
+<tspan x="10" y="314">  │ │ ├── swap-case@1.1.2 </tspan>
+<tspan x="10" y="330">  │ │ ├── title-case@1.1.2 </tspan>
+<tspan x="10" y="346">  │ │ ├── upper-case@1.1.3 </tspan>
+<tspan x="10" y="362">  │ │ └── upper-case-first@1.1.2 </tspan>
+<tspan x="10" y="378">  │ ├─┬ clean-css@3.1.9 </tspan>
+<tspan x="10" y="394">  │ │ ├── commander@2.6.0 </tspan>
+<tspan x="10" y="410">  │ │ └─┬ source-map@0.1.43 </tspan>
+<tspan x="10" y="426">  │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="442">  │ ├─┬ cli@0.6.6 </tspan>
+<tspan x="10" y="458">  │ │ ├── exit@0.1.2 </tspan>
+<tspan x="10" y="474">  │ │ └─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="490">  │ │   └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="506">  │ │     ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="522">  │ │     └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="538">  │ ├─┬ concat-stream@1.4.10 </tspan>
+<tspan x="10" y="554">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="570">  │ │ ├── readable-stream@1.1.14 </tspan>
+<tspan x="10" y="586">  │ │ └── typedarray@0.0.6 </tspan>
+<tspan x="10" y="602">  │ ├── relateurl@0.2.7 </tspan>
+<tspan x="10" y="618">  │ └─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="634">  │   ├── async@0.2.10 </tspan>
+<tspan x="10" y="650">  │   ├── source-map@0.1.34 </tspan>
+<tspan x="10" y="666">  │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="682">  │   └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="698">  │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="714">  │     ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="730">  │     ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="746">  │     └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="762">  ├─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="778">  │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="794">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="810">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="826">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="842">  └── xtend@4.0.1</tspan>
+</text>
+</svg>
